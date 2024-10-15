@@ -1,46 +1,22 @@
 <img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_map%403x.png" width="100" /><br>
-<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_map_languge%403x.png" width="25" /> `Español`&emsp;[Français](README_FR.md)&emsp;[English](README.md)&emsp;[Deutsch](README_DE.md)
+<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_map_languge%403x.png" width="25" /> `Français`&emsp;[Español](README_ES.md)&emsp;[English](README.md)&emsp;[Deutsch](README_DE.md)
 
-# Mapas en línea
+# Cartes en ligne
 
-Recopilamos aquí el acceso a mapas en línea, topo, ortofotos u otros, disponibles en algunos de los principales institutos geográficos de diferentes países.
+Nous regroupons ici les accès aux cartes en ligne, topo, orthophotos ou autres, disponibles chez quelques uns des principaux instituts géographiques de différents pays. 
 
-Intentaremos mantenerlos actualizados, pero si por casualidad descubre un archivo obsoleto, le agradeceremos que nos lo comunique.
+Nous essaierons de les maintenir à jour mais si par malchance vous découvrez un fichier obsolète, nous vous serions reconnaissant de nous le faire savoir.
 
-No dude en ponerse en contacto con nosotros para enviarnos otros accesos disponibles si tiene conocimiento de ellos.
+N'hésitez pas non plus à nous contacter pour nous faire parvenir d'autres accès disponibles si vous en avez la connaissance.
 
-Le recordamos que estos accesos a los mapas están destinados y autorizados por su proveedor para un uso personal.<br><br>
+Nous vous rappelons que ces accès aux cartes sont prévus et autorisés par leur fournisseur pour un usage personnel.<br><br>
 
 ---
 
-## Mapas disponibles:
+## Cartes disponibles:
 <br>
-
-<!-- - 🇪🇸 [España](https://github.com/OsmAnd-Rendering/Online-Maps/blob/main/ES) -->
-
-<details><summary>🇪🇸 <strong>España</strong></summary>
-
-* [IGN mapa base](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20IGN%20BASE.sqlitedb?raw=true)
-* [IGN mapa topo](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20IGN%20TOPO.sqlitedb?raw=true)
-* [IGN Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20IGN%20PNOA.sqlitedb?raw=true)
-
-<details><summary> Catalunya </summary>
-
-* [ICGC Mapa Topo](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CAT/CAT%20TOPO.sqlitedb?raw=true)
-* [ICGC Mapa Topo Gris](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CAT/CAT%20TOPO%20GRIS.sqlitedb?raw=true)
-* [ICGC Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CAT/CAT%20ORTO.sqlitedb?raw=true)
-* [ICGC Ortofotos Gris](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CAT/CAT%20ORTO%20GRIS.sqlitedb?raw=true)
-</details>
-
-<details><summary> Comunitat Valenciana </summary>
-
-* [ICV Mapa Topo](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CV/ICV%20TOPO.sqlitedb?raw=true)
-* [ICV Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CV/ICV%20ORTOFOTOS%20MA.sqlitedb?raw=true)
-</details>
-</details>
-
 <details>
-<summary>🇫🇷 <strong>Francia</strong></summary>
+<summary>🇫🇷 <strong>France</strong></summary>
 
 * [Carte de base IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Cartes%20IGN.sqlitedb?raw=true)
 * [Carte topographique IGN](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FR/FR%20IGN%20Scan25.sqlitedb?raw=true)
@@ -51,15 +27,36 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 
 </details>
 
+<details><summary>🇪🇸 <strong>Espagne</strong></summary><blockquote>
+
+* [IGN mapa base](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20IGN%20BASE.sqlitedb?raw=true)
+* [IGN mapa topo](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20IGN%20TOPO.sqlitedb?raw=true)
+* [IGN Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/ES%20IGN%20PNOA.sqlitedb?raw=true)
+
+<details><summary> Catalogne </summary><blockquote>
+
+* [ICGC Mapa Topo](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CAT/CAT%20TOPO.sqlitedb?raw=true)
+* [ICGC Mapa Topo Gris](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CAT/CAT%20TOPO%20GRIS.sqlitedb?raw=true)
+* [ICGC Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CAT/CAT%20ORTO.sqlitedb?raw=true)
+* [ICGC Ortofotos Gris](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CAT/CAT%20ORTO%20GRIS.sqlitedb?raw=true)
+</blockquote></details>
+
+<details><summary> Comunitat Valenciana </summary><blockquote>
+
+* [ICV Mapa Topo](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CV/ICV%20TOPO.sqlitedb?raw=true)
+* [ICV Ortofotos](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ES/CV/ICV%20ORTOFOTOS%20MA.sqlitedb?raw=true)
+</blockquote></details>
+</details>
+
 <details>
-<summary>🇳🇴 <strong>Noruega</strong></summary>
+<summary>🇳🇴 <strong>Norvège</strong></summary>
 
 * [Finn Kart Norge](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/NO/Finn%20Kart%20Norge.sqlitedb?raw=true)
 * [UtNo Topokart](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/NO/UtNo%20Topokart.sqlitedb?raw=true)
 </details>
 
 <details>
-<summary>🇨🇭 <strong>Suiza</strong></summary>
+<summary>🇨🇭 <strong>Suisse</strong></summary>
 
 * [Swiss swisstopo Slopes](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Slopes.sqlitedb?raw=true)
 * [Swiss swisstopo Topo](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Topo.sqlitedb?raw=true)
@@ -68,7 +65,7 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 </details>
 
 <details>
-<summary>🇦🇹 <strong>Austria</strong></summary>
+<summary>🇦🇹 <strong>Autriche</strong></summary>
 
 * [Austria terrain](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Gelaende.sqlitedb?raw=true)
 * [Austria Geoland](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Geoland.sqlitedb?raw=true)
@@ -81,75 +78,74 @@ Le recordamos que estos accesos a los mapas están destinados y autorizados por 
 </details>
 
 <details>
-<summary>🇩🇪 <strong>Alemania</strong></summary>
+<summary>🇩🇪 <strong>Allemagne</strong></summary>
 
 * [Germany basemap.de](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/DE/Germany%20basemap.de.sqlitedb?raw=true)
 </details>
 
 <details>
-<summary>🇫🇮 <strong>Finlandia</strong></summary>
+<summary>🇫🇮 <strong>Finlande</strong></summary>
 
 * [Finland Kapsi Peruskartta](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FI/Finland%20Kapsi%20Peruskartta.sqlitedb?raw=true)
 </details>
 
 <details>
-<summary>🇯🇵 <strong>Japón</strong></summary>
+<summary>🇯🇵 <strong>Japon</strong></summary>
 
 * [Japan GSI Basemap](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/JP/Japan%20GSI%20Basemap.sqlitedbb?raw=true)
 * [Japan GSI Orthophoto](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/JP/Japan%20GSI%20Orthophoto.sqlitedb?raw=true)
 </details>
 
 <details>
-<summary>🇯🇵 <strong>Luxemburgo</strong></summary>
+<summary>🇯🇵 <strong>Luxembourg</strong></summary>
 
 * [Luxembourg - Topo 5k](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/LU/Luxembourg%20-%20Topo%205k.sqlitedb?raw=true)
 </details>
 
 <details>
-<summary>🇲🇪 <strong>Montenegro</strong></summary>
+<summary>🇲🇪 <strong>Monténégro</strong></summary>
 
 * [Montenegro Topomap](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ME/Montenegro%20Topomap.sqlitedb?raw=true)
 </details>
 
 <details>
-<summary>🇳🇿 <strong>Nueva Zelanda</strong></summary>
+<summary>🇳🇿 <strong>Nouvelle-Zélande</strong></summary>
 
 * [New Zealand Topographic Map](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/NZ/New%20Zealand%20Topographic%20Map.sqlitedb?raw=true)
 </details>
 
 <details>
-<summary>🇳🇱 <strong>Países Bajos</strong></summary>
+<summary>🇳🇱 <strong>Pays-Bas</strong></summary>
 
 * [NL Maps Kadaster](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/NL/NL%20Maps%20Kadaster.sqlitedb?raw=true)
 </details>
 
 <details>
-<summary>🇸🇪 <strong>Suecia</strong></summary>
+<summary>🇸🇪 <strong>Suède</strong></summary>
 
 * [Sweden Lantmäteriet Orthophoto](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/SE/Sweden%20Lantm%C3%A4teriet%20Orthophoto.sqlitedb?raw=true)
 </details>
 
 <details>
-<summary>🇧🇪 <strong>Bélgica</strong></summary>
+<summary>🇧🇪 <strong>Belgique</strong></summary>
 
-* [NGI default map](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/BE/NGI%20Map.sqlitedb?raw=true)
-* [NGI orthophotos](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/BE/NGI%20Orthophotos.sqlitedb?raw=true)
+* [NGI Default Map](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/BE/NGI%20Map.sqlitedb?raw=true)
+* [NGI Orthophotos](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/BE/NGI%20Orthophotos.sqlitedb?raw=true)
 </details>
 
 <details>
-<summary>🇦🇷 <strong>Argentina</strong></summary>
+<summary>🇦🇷 <strong>Argentine</strong></summary>
 
 * [Argenmap](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ARG/Argenmap.sqlitedb?raw=true)
-* [Argenmap (topográfico)](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ARG/Argenmap%20(topogr%C3%A1fico).sqlitedb?raw=true)
-* [Argenmap (oscuro)](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ARG/Argenmap%20(oscuro).sqlitedb?raw=true)
-* [Argenmap (híbrido)](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ARG/Argenmap%20(h%C3%ADbrido).sqlitedb?raw=true)
+* [Argenmap (topographique)](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ARG/Argenmap%20(topogr%C3%A1fico).sqlitedb?raw=true)
+* [Argenmap (sombre)](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ARG/Argenmap%20(oscuro).sqlitedb?raw=true)
+* [Argenmap (hybride)](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ARG/Argenmap%20(h%C3%ADbrido).sqlitedb?raw=true)
 * [Argenmap (gris)](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ARG/Argenmap%20(gris).sqlitedb?raw=true)
 </details>
-
 <br>
 
 
-Más información sobre mapas ráster (online / offline) aquí → [OsmAnd Doc](https://osmand.net/docs/user/map/raster-maps)<br>
-Más mapas en línea (no probados) → [AnyGIS](https://anygis.ru/Web/Html/Osmand_en)
+Plus d'informations sur les cartes raster (en ligne / hors ligne) ici → [Doc OsmAnd](https://osmand.net/docs/user/map/raster-maps)<br>
+Plus de cartes en ligne (non testé) ici → [AnyGIS](https://anygis.ru/Web/Html/Osmand_en)
 
 ---
