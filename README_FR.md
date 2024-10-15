@@ -58,8 +58,10 @@ Nous vous rappelons que ces accès aux cartes sont prévus et autorisés par leu
 <details>
 <summary>🇨🇭 <strong>Suisse</strong></summary>
 
-* [Swiss Slopes](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Slopes.sqlitedb?raw=true)
-* [Swiss Topo](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Topo.sqlitedb?raw=true)
+* [Swiss swisstopo Slopes](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Slopes.sqlitedb?raw=true)
+* [Swiss swisstopo Topo](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20Topo.sqlitedb?raw=true)
+* [Swiss swisstopo Slope Overlay](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20swisstopo%20Slope%20Overlay.sqlitedb?raw=true)
+* [Swiss swisstopo Trails Overlay](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/CH/Swiss%20swisstopo%20Trails%20Overlay.sqlitedb?raw=true)
 </details>
 
 <details>
@@ -72,6 +74,56 @@ Nous vous rappelons que ces accès aux cartes sont prévus et autorisés par leu
 * [Austria surface](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Oberflaeche.sqlitedb?raw=true)
 * [Austria Orthofoto](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Orthofoto.sqlitedb?raw=true)
 * [Austria Overlay](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20Overlay.sqlitedb?raw=true)
+* [Austria BEV ÖK50](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/AT/Austria%20BEV%20OEK%2050.sqlitedb?raw=true)
+</details>
+
+<details>
+<summary>🇩🇪 <strong>Allemagne</strong></summary>
+
+* [Germany basemap.de](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/DE/Germany%20basemap.de.sqlitedb?raw=true)
+</details>
+
+<details>
+<summary>🇫🇮 <strong>Finlande</strong></summary>
+
+* [Finland Kapsi Peruskartta](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/FI/Finland%20Kapsi%20Peruskartta.sqlitedb?raw=true)
+</details>
+
+<details>
+<summary>🇯🇵 <strong>Japon</strong></summary>
+
+* [Japan GSI Basemap](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/JP/Japan%20GSI%20Basemap.sqlitedbb?raw=true)
+* [Japan GSI Orthophoto](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/JP/Japan%20GSI%20Orthophoto.sqlitedb?raw=true)
+</details>
+
+<details>
+<summary>🇯🇵 <strong>Luxembourg</strong></summary>
+
+* [Luxembourg - Topo 5k](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/LU/Luxembourg%20-%20Topo%205k.sqlitedb?raw=true)
+</details>
+
+<details>
+<summary>🇲🇪 <strong>Monténégro</strong></summary>
+
+* [Montenegro Topomap](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/ME/Montenegro%20Topomap.sqlitedb?raw=true)
+</details>
+
+<details>
+<summary>🇳🇿 <strong>Nouvelle-Zélande</strong></summary>
+
+* [New Zealand Topographic Map](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/NZ/New%20Zealand%20Topographic%20Map.sqlitedb?raw=true)
+</details>
+
+<details>
+<summary>🇳🇱 <strong>Pays-Bas</strong></summary>
+
+* [NL Maps Kadaster](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/NL/NL%20Maps%20Kadaster.sqlitedb?raw=true)
+</details>
+
+<details>
+<summary>🇸🇪 <strong>Suède</strong></summary>
+
+* [Sweden Lantmäteriet Orthophoto](https://github.com/OsmAnd-Rendering/Online-Maps/raw/main/SE/Sweden%20Lantm%C3%A4teriet%20Orthophoto.sqlitedb?raw=true)
 </details>
 
 <details>
